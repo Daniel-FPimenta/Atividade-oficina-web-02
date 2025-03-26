@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.circulo {
+    width: 200px;
+    height: 200px;    
+    border-radius: 50%;
+    position: relative;
+    margin: 20px auto;
+}
